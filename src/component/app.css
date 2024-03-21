@@ -1,0 +1,244 @@
+.LeftBar {
+  position: absolute;
+  width: 200px;
+  height: 1028px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+}
+.logo {
+  position: absolute;
+  width: 67px;
+  height: 138px;
+  left: 45px;
+  top: -10px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 6px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 8px;
+  color: #bd507d;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.home {
+  position: absolute;
+  width: 67px;
+  height: 138px;
+  left: 50px;
+  top: 100px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 8px;
+  color: #bd507d;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.left a {
+  padding: 0px 4px;
+}
+
+.menu {
+  position: absolute;
+  width: 67px;
+  height: 138px;
+  left: 50px;
+  top: 180px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 8px;
+  color: #000000;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.myorders {
+  position: absolute;
+  width: 67px;
+  height: 138px;
+  left: 50px;
+  top: 260px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 8px;
+  color: #000000;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.history {
+  position: absolute;
+  width: 67px;
+  height: 138px;
+  left: 50px;
+  top: 340px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 8px;
+  color: #000000;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.partners {
+  position: absolute;
+  width: 67px;
+  height: 138px;
+  left: 50px;
+  top: 420px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 8px;
+  color: #000000;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.setting {
+  position: absolute;
+  width: 67px;
+  height: 138px;
+  left: 50px;
+  top: 500px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 8px;
+  color: #000000;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.donation {
+  position: absolute;
+  width: 67px;
+  height: 138px;
+  left: 50px;
+  top: 580px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 8px;
+  color: #000000;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.logout {
+  position: absolute;
+  width: 67px;
+  height: 138px;
+  left: 50px;
+  top: 860px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 8px;
+  color: #000000;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+/* categ */
+.categories-nav {
+  position: absolute;
+  width: 736px;
+  height: 59px;
+  left: 248px;
+  top: 141px;
+}
+
+.categories-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.categories-nav li {
+  display: inline-block;
+  margin-right: 10px; /* Adjust as needed */
+}
+
+.category-link {
+  text-decoration: none;
+}
+
+.category-link:hover {
+  cursor: pointer;
+}
+
+/* Style for each category */
+.category-all,
+.category-coffee,
+.category-dessert,
+.category-snack,
+.category-food {
+  box-sizing: border-box;
+  width: 120px;
+  height: 59px;
+  background-color: #e0dfdf;
+  border: 1px solid #bd507d;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000000;
+  font-family: Arial, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+/* Style for ALL category */
+.category-all {
+  background-color: #bd507d;
+  color: white;
+}
+
+/* Product */
+.img {
+  width: 140px;
+}
