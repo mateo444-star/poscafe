@@ -42,7 +42,7 @@ const EllipseComponent = () => {
             color: "#000000",
           }}
         >
-          Sokla Lor
+          OR4CL3 ACE
         </div>
         <div
           style={{
