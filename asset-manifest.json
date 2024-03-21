@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/poscafe/static/css/main.ae753ce2.css",
+    "main.js": "/poscafe/static/js/main.a02749fe.js",
+    "static/js/453.361bfbc8.chunk.js": "/poscafe/static/js/453.361bfbc8.chunk.js",
+    "static/media/capu.png": "/poscafe/static/media/capu.d4be44311a50735a5caf.png",
+    "index.html": "/poscafe/index.html",
+    "main.ae753ce2.css.map": "/poscafe/static/css/main.ae753ce2.css.map",
+    "main.a02749fe.js.map": "/poscafe/static/js/main.a02749fe.js.map",
+    "453.361bfbc8.chunk.js.map": "/poscafe/static/js/453.361bfbc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae753ce2.css",
+    "static/js/main.a02749fe.js"
+  ]
+}
